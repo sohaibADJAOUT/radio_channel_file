@@ -2,56 +2,146 @@
    "Data":[
       {
         "ID": 53,
-        "RadioName": "Desi World Radio",
+        "RadioName": "AA",
         "RadioURL": "https://ch3.ice.infomaniak.ch/ch3-32.aac",
-        "RadioDesc": "The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
+        "RadioDesc": "AA",
         "RadioShortDesc": null,
         "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/chaine-3",
         "RadioPic": "PIC_URL"
       },
       {
         "ID": 54,
-        "RadioName": "Desi Music Mix",
+        "RadioName": "BB",
         "RadioURL": "https://ch2.ice.infomaniak.ch/ch2-32.aac",
-        "RadioDesc": "Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
+        "RadioDesc": "BB",
         "RadioShortDesc": null,
         "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/chaine-2",
         "RadioPic": "PIC_URL"
       } 
       {
         "ID": 55,
-        "RadioName": "Desi World Radio",
-        "RadioURL": "https://ch3.ice.infomaniak.ch/ch3-32.aac",
-        "RadioDesc": "The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
+        "RadioName": "CC",
+        "RadioURL": "https://adrar.ice.infomaniak.ch/01.aac",
+        "RadioDesc": "CC",
         "RadioShortDesc": null,
-        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/chaine-3",
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/01--Adrar",
         "RadioPic": "PIC_URL"
       },
       {
         "ID": 56,
-        "RadioName": "Desi Music Mix",
-        "RadioURL": "https://ch2.ice.infomaniak.ch/ch2-32.aac",
-        "RadioDesc": "Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
+        "RadioName": "DD",
+        "RadioURL": "https://chlef.ice.infomaniak.ch/02.aac",
+        "RadioDesc": "DD",
         "RadioShortDesc": null,
-        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/chaine-2",
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/02-Chlef",
         "RadioPic": "PIC_URL"
       } 
       {
         "ID": 57,
-        "RadioName": "Desi World Radio",
-        "RadioURL": "https://ch3.ice.infomaniak.ch/ch3-32.aac",
-        "RadioDesc": "The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
+        "RadioName": "EE",
+        "RadioURL": "https://laghouat.ice.infomaniak.ch/03.aac",
+        "RadioDesc": "EE",
         "RadioShortDesc": null,
-        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/chaine-3",
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/03-Laghouat",
         "RadioPic": "PIC_URL"
       },
       {
         "ID": 58,
-        "RadioName": "Desi Music Mix",
-        "RadioURL": "https://ch2.ice.infomaniak.ch/ch2-32.aac",
-        "RadioDesc": "Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
+        "RadioName": "FF",
+        "RadioURL": "https://oeb.ice.infomaniak.ch/04.aac",
+        "RadioDesc": "FF",
         "RadioShortDesc": null,
-        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/chaine-2",
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/04-Oum-Bouaghi",
+        "RadioPic": "PIC_URL"
+      } 
+      {
+        "ID": 53,
+        "RadioName": "GG",
+        "RadioURL": "https://batna.ice.infomaniak.ch/05.aac",
+        "RadioDesc": "GG",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/05-Batna",
+        "RadioPic": "PIC_URL"
+      },
+      {
+        "ID": 54,
+        "RadioName": "HH",
+        "RadioURL": "https://bejaia.ice.infomaniak.ch/06.aac",
+        "RadioDesc": "HH",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/06-Bejaia",
+        "RadioPic": "PIC_URL"
+      } 
+      {
+        "ID": 55,
+        "RadioName": "II",
+        "RadioURL": "https://biskra.ice.infomaniak.ch/07.aac",
+        "RadioDesc": "II",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/07-Biskra",
+        "RadioPic": "PIC_URL"
+      },
+      {
+        "ID": 56,
+        "RadioName": "JJ",
+        "RadioURL": "https://elbahdja.ice.infomaniak.ch/elbahdja-32.aac",
+        "RadioDesc": "JJ",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/radio-el-bahdja",
+        "RadioPic": "PIC_URL"
+      } 
+      {
+        "ID": 57,
+        "RadioName": "KK",
+        "RadioURL": "https://jil-fm.ice.infomaniak.ch/jilfm.aac",
+        "RadioDesc": "KK",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/jil-fm",
+        "RadioPic": "PIC_URL"
+      },
+      {
+        "ID": 58,
+        "RadioName": "LL",
+        "RadioURL": "https://culture.ice.infomaniak.ch/culture.aac",
+        "RadioDesc": "LL",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/radio-culture",
+        "RadioPic": "PIC_URL"
+      }
+      {
+        "ID": 53,
+        "RadioName": "MM",
+        "RadioURL": "https://coran.ice.infomaniak.ch/coran.aac",
+        "RadioDesc": "MM",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/radio-coran",
+        "RadioPic": "PIC_URL"
+      },
+      {
+        "ID": 54,
+        "RadioName": "NN",
+        "RadioURL": "https://rai.ice.infomaniak.ch/rai-32.aac",
+        "RadioDesc": "NN",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/radio-alg%C3%A9rie-internationale",
+        "RadioPic": "PIC_URL"
+      } 
+      {
+        "ID": 55,
+        "RadioName": "OO",
+        "RadioURL": "https://relizane.ice.infomaniak.ch/48.aac",
+        "RadioDesc": "OO",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/48-Relizane",
+        "RadioPic": "PIC_URL"
+      },
+      {
+        "ID": 56,
+        "RadioName": "PP",
+        "RadioURL": "https://ghardaia.ice.infomaniak.ch/47.aac",
+        "RadioDesc": "PP",
+        "RadioShortDesc": null,
+        "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/47-Ghardaia",
         "RadioPic": "PIC_URL"
       } 
    ],
