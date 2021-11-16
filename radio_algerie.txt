@@ -3,7 +3,7 @@
       {
         "ID": 53,
         "RadioName": "AA",
-        "RadioURL": "https://ch3.ice.infomaniak.ch/ch3-32.aac",
+        "RadioURL": "https://stream-mz.planetradio.co.uk/planetrock.mp3",
         "RadioDesc": "AA",
         "RadioShortDesc": null,
         "RadioWebsite": "https://www.radioalgerie.dz/player/fr/live/chaine-3",
